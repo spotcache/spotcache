@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spotcache
 - 👀 I’m interested in making fun stuff
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on software development projects
+- 💞️ I’m looking to collaborate on software development projects if possible
 - 📫 How to reach me <spotcache@gmail.com>
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I wrote code on a super fun project for about a day and a half
+- ⚡ Fun fact: I like coffee, like a lot
