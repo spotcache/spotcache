@@ -34,10 +34,6 @@ I’m a (somewhat) full-stack developer (I'm not doubting myself okay!? - jeez) 
 
 #
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 
 ![Spot's GitHub stats]([https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=spotcache))
