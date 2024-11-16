@@ -38,7 +38,7 @@ I’m a (somewhat) full-stack developer (I'm not doubting myself okay!? - jeez) 
 
 ![Spot's GitHub stats]([https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox](https://github-readme-stats.vercel.app/api?username=spotcache))
 
-![GitHub Streak](https://streak-stats.demolab.com?user=spotcache&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=spotcache&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)]
 
 #
 
