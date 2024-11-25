@@ -23,7 +23,7 @@ and countless others make awesome stuff.
 And being able to share it..!, that's the best part!.
 
 
-I guess I'm not so great at intros'
+I guess I'm not so great at intros' huh?, 
 reach out for questions.
 
 
