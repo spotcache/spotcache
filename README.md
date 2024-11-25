@@ -8,7 +8,7 @@ I do something with these different "languages",
 or so they call it, and make weird things.
 
 
-Then came along AI's which I absolutely ADORE!.
+Then came along AI which I absolutely ADORE!.
 I'm all in for machine learning and alike.
 
 
