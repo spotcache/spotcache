@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**spotcache/spotcache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am spotcache.
+okay no wait, it's actually Arjun.
 
-Here are some ideas to get you started:
+I do something with these different "languages",
+or so they call it, and make weird things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Then came along AI's which I absolutely ADORE!.
+I'm all in for machine learning and alike.
+
+Tip: Private AI can be set-up on your machine,
+and that's what I've done too!
+
+It's really cool to see that how these tools help me,
+and countless others make awesome stuff.
+
+And being able to share it..!, that's the best part!.
+
+I guess I'm not so great at intros'
+reach out for questions.
+
+> spotcache@gmail.com
