@@ -13,7 +13,7 @@ I'm all in for machine learning and alike.
 
 
 Tip: Private AI can be set-up on your machine,
-and that's what I've done too!
+It's pretty cool tbh.
 
 
 It's really cool to see that how these tools help me,
